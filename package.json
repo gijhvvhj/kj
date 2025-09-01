@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "author": "hello-node",
-  "license": "MIT",
+  "license": "gg",
   "repository": {
     "type": "git",
     "url": "https://"
